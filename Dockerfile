@@ -1,1 +1,1 @@
-FROM wyrihaximusgithubactions/helm3:v2.1.3
+FROM uthark/helm3:v2.1.4
